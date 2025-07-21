@@ -1,3 +1,1 @@
-Here we share the code for conducting all the results in the paper;
-
-You may find that the current version of the code has not been formatted perfectly (e.g., some comments are still in Chinese), as this version is merely for the illustrative purpose. We will refine the code in the accepted version of the paper and will upload all the codes and data to the GitHub.
+The above code is used to generate the baseline results of the paper. Please note that some data labels and comments are written in Chinese. However, they can be easily translated into English with the help of AI tools.
